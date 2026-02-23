@@ -16,7 +16,7 @@ The scripts in this repository bridge the gap between **Data Analysis** (generat
 
 ### 1. Advanced Relational Logic (JOINs & SET Operators)
 
-
+![SQL Joins Venn Diagram](images/setsandjoins.png)
 ![SQL Joins Venn Diagram](images/SQLJoinsVennDiagram.png)
 
 
