@@ -4,6 +4,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AbdiR0099/SQL_data_analysis_and_engineering?style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/AbdiR0099/SQL_data_analysis_and_engineering?style=flat-square)
 
+ ## Credits This project was developed with guidance from **Data with Baraa**. YouTube Channel: [Data with Baraa](https://www.youtube.com/@DataWithBaraa)
+
 ##  About the Project
 This repository documents my progression into intermediate and advanced SQL. Moving beyond basic `SELECT` statements, this project focuses on complex relational logic, data transformation, and advanced analytical querying. 
 
